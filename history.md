@@ -1,3 +1,8 @@
+---
+layout: default
+title: history
+---
+
 # Malkieri History #
 
 Okay, this is my best attempt at recalling the total history of Malkier,

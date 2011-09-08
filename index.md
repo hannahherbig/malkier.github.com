@@ -1,3 +1,8 @@
+---
+layout: default
+title: index
+---
+
 # About Malkier #
 
 The name "Malkier" was created by Robert Jordan in his book series entitled
@@ -33,7 +38,7 @@ our own IRC network, with the help of **naki**. It lasted a few years but never
 really accomplished anything. Leaving the first server, even though it later
 self-destructed, proved to be the killing blow. Many of the members left, and
 even fewer survive now. The ones that have stayed with us through the IRC
-network ordeal are pretty much never around anyway. 
+network ordeal are pretty much never around anyway.
 
 We've gone from being an IRC channel, to a server, to a network, back to a
 channel, and now onto more.
